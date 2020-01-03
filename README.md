@@ -28,4 +28,4 @@ Consider all possible combinations of independent variables. Here we will report
 1) Multiple R-squared 
 2) Adjusted R-squared 
 3) Complete Linear Regression equation
-4)Using Linear /Multiple Regression
+
