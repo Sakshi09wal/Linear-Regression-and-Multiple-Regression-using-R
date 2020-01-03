@@ -1,4 +1,4 @@
-# :Trophy: Linear Regression/Multiple Linear Regression in R using AutoMPG dataset Project :trophy:
+# :trophy: Linear Regression/Multiple Linear Regression in R using AutoMPG dataset Project :trophy:
 
 
 ## About dataset
